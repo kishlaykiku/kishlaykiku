@@ -15,4 +15,6 @@
 <br>
 <br>
 
+<hr>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kishlaykiku&show_icons=true&locale=en" alt="kishlaykiku" /></p>
