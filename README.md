@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kishlay</h1>
 <h3 align="center">Full Stack Developer</h3>
-<img align="right" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--nuMk7hzp--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ps9mfc7ch7woufk58yuv.jpeg">
+<img align="right" width="400" src="https://thumbs.gfycat.com/ActivePiercingLeech-max-1mb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishlaykiku&label=Profile%20views&color=0e75b6&style=flat" alt="kishlaykiku" /> </p>
 
