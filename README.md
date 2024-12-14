@@ -63,6 +63,22 @@
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
     </a>
+    <!-- Java -->
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
+    </a>
+    <!-- Spring Boot -->
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40"/>
+    </a>
+    <!-- Angular -->
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original-wordmark.svg" alt="angular" width="40" height="40"/>
+    </a>
+    <!-- Docker -->
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+    </a>
 </p>
 
 <hr>
