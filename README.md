@@ -64,19 +64,23 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
     </a>
     <!-- Java -->
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
     </a>
     <!-- Spring Boot -->
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40"/>
     </a>
     <!-- Angular -->
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <a href="https://angular.dev/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original-wordmark.svg" alt="angular" width="40" height="40"/>
     </a>
+    <!-- Typescript -->
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.svgrepo.com/show/374144/typescript.svg" alt="typescript" width="40" height="40"/>
+    </a>
     <!-- Docker -->
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
     </a>
 </p>
