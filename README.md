@@ -11,17 +11,17 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <!-- LinkedIN -->
-    <a href="https://linkedin.com/in/kishlaykiku" target="blank">
+    <a href="https://linkedin.com/in/kishlaykiku" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
         alt="kishlaykiku" height="30" width="40" />
     </a>
     <!-- Leetcode -->
-    <a href="https://www.leetcode.com/mrkiku" target="blank">
+    <a href="https://www.leetcode.com/mrkiku" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
         alt="mrkiku" height="30" width="40" />
     </a>
     <!-- Discord -->
-    <a href="https://discord.gg/637023046758301738" target="blank">
+    <a href="https://discordapp.com/users/637023046758301738" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" 
         alt="637023046758301738" height="30" width="40" />
     </a>
